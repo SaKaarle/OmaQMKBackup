@@ -2,6 +2,8 @@
 Backup configs ja muut tärkeät configit QMK 3D printantuille näppiksille.
 [QMK Githubista](https://github.com/qmk/qmk_firmware) imuroit firmikset C:/Users/USERNAME/qmk_firmware/ käyttäen git komentoa.
 
+[QMK](https://docs.qmk.fm/reference_configurator_support):sta löytyy paljon jos haluaa itse rakentaa manuaalisesti kaiken. Ja myös löytyy ohjeet konffattaville näppäimille ja termistöä
+
 Konverttaukseen käytetty QMK omia ohjeita ja tekoälyä välttääkseen tylsän manuaalikonverttauksen. Näppikset ovat yksinkertaisesti käännetty RP2040 pinneille vastaavasti:
 
 ```
