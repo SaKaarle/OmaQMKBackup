@@ -16,6 +16,8 @@ Mielipide: Keymap.c tiedostoja on helpompi modata omanmukaisesti, kuin käyttä�
 
 ## MK75
 
+`qmk compile -kb omakeyboardmk75 -km customlayoutoma`
+
 ## andimoto SmallTKLiso
 
 `qmk compile -kb andimoto_small_tkl -km default`
